@@ -1,0 +1,1 @@
+puts "Iniciando o curso de Ruby"
