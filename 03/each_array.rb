@@ -1,11 +1,9 @@
-names = ['Ana', 'Clara', 'Julia']
+names = %w[Ana Clara Julia]
 
 name = ['Jaime Ferraz']
 
 names.each do |name|
-  puts "Hello, #{name}"
+  puts name
 end
 
 puts name
-
-
