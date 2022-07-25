@@ -1,3 +1,6 @@
+# Isso é um teste para verificar se o programa está funcionando corretamente
+# Isso é um teste para verificar a criação de uma nova branch
+
 require 'cpf_cnpj'
 
 def check_cpf(cpf_number)
